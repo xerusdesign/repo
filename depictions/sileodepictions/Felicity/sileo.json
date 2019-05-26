@@ -1,0 +1,73 @@
+{
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "itemCornerRadius": 6,
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "http://moreinfo.thebigboss.org/moreinfo/felicitytheme1.jpg?format=png&name=small"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "http://moreinfo.thebigboss.org/moreinfo/felicitytheme2.jpg?format=png&name=small"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}"
+                },
+                {
+                    "useBottomMargin": false,
+                    "markdown": "## An intense and happy theme.
+“Felicity” means intense happiness and joy ~ and thats exactly what this theme brings to your device.
+Felicity comes with over 200 icons that have been designed with great focus and attention to detail. Every icon in this theme has greatly improved the stock design whilst still keeping it familiar. The colour palette that is featured with Felicity is also improving the current design by making all colours and gradients brighter and easier on the eye. 
+Felicity is meant to be, and I’m sure you will love it! 
+As before mentioned, Felicity comes with 200+ icons and many more well on the way. Felicity supports iOS 7-11 and features iOS 11 styled Cydia, AppStore and iTunes icons for that iOS 11 look! Many more features and icons are coming in future updates so stay tuned!
+You can request icons via my twitter @xerusdesign 
+Requires Snowboard or Anemone. ",
+                    "class": "DepictionMarkdownView",
+                    "useBoldText": true,
+                    "title": "markdown-description"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.0",
+                    "title": "Version"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "05-07-2019",
+                    "title": "Released"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.49",
+                    "title": "Price"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Giulio Smedile",
+                    "title": "Developer"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
+            ]
+        }
+    ],
+    "headerImage": "https://pbs.twimg.com/media/D7hYTp6XsAAnN14.jpg?format=png&name=900x900",
+    "minVersion": "0.1",
+    "tintColor": "#0657bb"
+}

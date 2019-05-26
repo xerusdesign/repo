@@ -1,0 +1,19 @@
+Package: com.smeds.project2019
+Version: 1.0R
+Architecture: iphoneos-arm
+Maintainer: Giulio Smedile <bart172@me.com>
+Filename: ./debs/com.smeds.project2019.deb
+Size: 5272888
+MD5sum: f26871d25fb32d7b292e970b4a86594c
+SHA1: 354c88cbe6159cb8abb427a3548a42f1d18a45b3
+SHA256: 7a3c4997b7e66c890d4ddad6ea852cfe2eb88e748697e15c5b39d4cb86c0dcff
+Section: Themes
+Homepage: http://twitter.com/smeds_
+Description: Prepare for something new.
+Author: Giulio Smedile <bart172@me.com>
+Depiction: https://bart172.github.io/repo/depictions/?p=com.smeds.project2019
+Name: Aliquid
+Sileodepiction: https://bart172.github.io/repo/depictions/sileodepictions/Aliquid/sileo.json
+
+
+
